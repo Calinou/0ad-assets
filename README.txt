@@ -8,4 +8,4 @@ License
 
 Copyright (c) 2014 Wildfire Games
 
-CC BY-SA 3.0
+Licensed under CC BY-SA 3.0 Unported.
